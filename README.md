@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/DtdZpNV.png' width='50'></img>
+<img src='https://i.imgur.com/DtdZpNV.png' width='100'></img>
 # xCynis-Skyblock-Pack
 ### Description
 xCyni's Skyblock Pack is a 32x texture pack made for Hypixel Skyblock consisting of textures from many different packs, such as PacksHQ, FurfSky Reborn, and Skyblock Overhaul. You can join [the discord](https://discord.gg/QremRHP) to hang out, report bugs, leave feedback, and more.
