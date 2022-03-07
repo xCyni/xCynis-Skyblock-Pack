@@ -1,0 +1,2 @@
+Make sure to delete the pre-existing aotd in the "swords" folder along with its properties file.
+Go to the "aotd unused" folder and rename the aotd to "aotd_unused.png" and you're finished!

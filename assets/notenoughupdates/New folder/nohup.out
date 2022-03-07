@@ -1,0 +1,4 @@
+using gegl copy
+using gegl copy
+gimp: GEGL-WARNING: (../gegl/gegl/buffer/gegl-tile-handler-cache.c:1076):gegl_tile_cache_destroy: runtime check failed: (g_queue_is_empty (&cache_queue))
+EEEEeEeek! 1 GeglBuffers leaked
