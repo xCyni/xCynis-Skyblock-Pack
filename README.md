@@ -1,5 +1,7 @@
 <img src='https://i.imgur.com/DtdZpNV.png' width='100'></img>
 # xCyni's Skyblock Pack
+### Description
+xCyni's Skyblock Pack is a 32x texture pack made for Hypixel Skyblock consisting of textures from many different packs, such as PacksHQ, FurfSky Reborn, and Skyblock Overhaul. You can join [the discord](https://discord.gg/QremRHP) to hang out, report bugs, leave feedback, and more.
 
 ### What version should I use?
 
@@ -17,8 +19,6 @@ The Overlay version has the same things as the Full version, but without the Min
 
 The FPS Friendly version has only the Skyblock textures. It does not include the Minecraft assets, mod guis, or even animations. It also removes more useless textures.
 
-### Description
-xCyni's Skyblock Pack is a 32x texture pack made for Hypixel Skyblock consisting of textures from many different packs, such as PacksHQ, FurfSky Reborn, and Skyblock Overhaul. You can join [the discord](https://discord.gg/QremRHP) to hang out, report bugs, leave feedback, and more.
 ### Credits
 #### Owner
 - forge>badlion#7891
