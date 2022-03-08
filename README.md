@@ -40,6 +40,7 @@ The FPS Friendly version has only the Skyblock textures. It does not include the
 - Dayko1234#3902 (Discord Server Booster)
 #### Packs Used
 - motor#3265 [(ActuallyAssets and DwarvenAssets)](https://discord.gg/ABHrh6K3Fh)
+- The Compliance Community [(Compliance)](https://compliancepack.net)
 - Farkonong (FAR block)
 - furf#3333 (FurfSky+)
 - Tylerrrr#2785 [(FurfSky Reborn)](discord.gg/fsr)
