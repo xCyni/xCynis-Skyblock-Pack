@@ -5,18 +5,14 @@ xCyni's Skyblock Pack is a 32x texture pack made for Hypixel Skyblock consisting
 
 ### What version should I use?
 
-There are three different versions of the pack, Full, Overlay, and FPS Friendly.
+There are three different versions of the pack as of version v3.0, **Full**, **Overlay**, and **FPS Friendly**.
+Versions before v3.0 will only have two versions of the pack, **Full** and **Overlay**.
 
-**Full**
-
+####Full
 The Full version offers the full immersive experience, including all of the item textures, Minecraft assets (Compliance), and mod guis.
-
-**Overlay**
-
+####Overlay
 The Overlay version has the same things as the Full version, but without the Minecraft assets.
-
-**FPS Friendly**
-
+####FPS Friendly
 The FPS Friendly version has only the Skyblock textures. It does not include the Minecraft assets, mod guis, or even animations. It also removes more useless textures.
 
 ### Credits
