@@ -26,7 +26,7 @@ The FPS Friendly version has only the Skyblock textures. It does not include the
 - The Still Technically Winter Lad#2947
 #### Discord Staff
 - Dayko1234#3902 (Admin)
-- BapoBigMako#5659 (Admin and Discord Manager)
+- BapoBigMako#5659 (Discord Manager)
 - The Still Technically Winter Lad#2947 (Moderator)
 - stef#6470 (Moderator)
 #### Beta Testers
