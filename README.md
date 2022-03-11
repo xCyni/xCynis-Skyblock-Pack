@@ -1,8 +1,14 @@
-<img src='https://i.imgur.com/DtdZpNV.png' width='100'></img>
-# xCyni's Skyblock Pack
+<div align="center">
+  <img src='https://i.imgur.com/5pCCzYL.png' width='420'></img>
+  
+  # ![Discord Shield](https://discordapp.com/api/guilds/598402340726374411/widget.png?style=shield) <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/xCyni/xCynis-Skyblock-Pack/total?color=EA323C&logo=Downloads">
+</div>
+
 ### Description
 xCyni's Skyblock Pack is a 32x texture pack made for Hypixel Skyblock consisting of textures from many different packs, such as PacksHQ, FurfSky Reborn, and Skyblock Overhaul. You can join [the discord](https://discord.gg/QremRHP) to hang out, report bugs, leave feedback, and more.
 
+[![Join our Discord server!](https://invidget.switchblade.xyz/QremRHP)](https://discord.gg/QremRHP)
+    
 ### What version should I use?
 
 There are three different versions of the pack as of version v3.0, **Full**, **Overlay**, and **FPS Friendly**.
