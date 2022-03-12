@@ -1,7 +1,7 @@
 <div align="center">
   <img src='https://i.imgur.com/5pCCzYL.png' width='420'></img>
   
-  # ![Discord Shield](https://discordapp.com/api/guilds/598402340726374411/widget.png?style=shield) <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/xCyni/xCynis-Skyblock-Pack/total?color=EA323C&logo=Downloads">
+  # ![Discord Shield](https://discordapp.com/api/guilds/598402340726374411/widget.png?style=shield) <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/xCyni/xCynis-Skyblock-Pack/total?color=EA323C&logo=Downloads"> <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/xCyni/xCynis-Skyblock-Pack?color=EA323C&label=latest%20version">
 </div>
 
 ### Description
