@@ -56,4 +56,4 @@ The FPS Friendly version has only the Skyblock textures. It does not include the
 - rainbowcraft2#4745 [(RNBW+)](https://discord.com/invite/dcdsnvG4Q4)
 - sai#5678 (Skyblock Default Edit)
 - oVinter#9682 (Skyblock Dream)
-- sporkspoon#9281 [(Skyblock Overhaul)](https://discord.gg/TENxPJRjxt)
+- sporkspoon#9281 & stef#6470 [(Skyblock Overhaul)](https://discord.gg/TENxPJRjxt)
